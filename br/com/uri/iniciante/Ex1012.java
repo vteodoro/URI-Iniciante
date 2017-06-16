@@ -22,9 +22,7 @@ public class Ex1012 {
         double trapezio = ((A+B) / 2) * C;
         double quadrado = B * B;
         double retangulo = A * B;
-        
-        
-        
+                
         DecimalFormat df = new DecimalFormat("0.000");
         System.out.println("TRIANGULO: " + df.format(triangulo));
         System.out.println("CIRCULO: " + df.format(circulo));
