@@ -1,4 +1,4 @@
-package br.com.uri.iniciantes;
+package br.com.uri.iniciante;
 
 import java.io.IOException;
 import java.util.Scanner;
